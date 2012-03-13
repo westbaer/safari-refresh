@@ -1,0 +1,9 @@
+Package: me.haunold.safarirefresh
+Name: safarirefresh
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Refresh safari via darwin notifications!
+Maintainer: Nicolas Haunold
+Author: Nicolas Haunold
+Section: Tweaks
